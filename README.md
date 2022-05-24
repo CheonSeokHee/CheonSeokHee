@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=csh3064)](https://solved.ac/csh3064)
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csh3064)](https://solved.ac/csh3064)
 
  # :rocket: Once I've Used 
 
