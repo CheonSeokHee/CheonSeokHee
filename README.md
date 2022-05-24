@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=csh3064)](https://solved.ac/csh3064)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=csh3064@naver.com)](https://solved.ac/csh3064@naver.com)
 
 
-<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=로고명&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/007396?style=flat-square&logo=Java&logoColor=white"/>
