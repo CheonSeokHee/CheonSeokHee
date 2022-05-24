@@ -17,9 +17,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20SeokHee Github&fontSize=60" />
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csh3064)](https://solved.ac/csh3064)
-
  # :rocket: Once I've Used 
 
 
@@ -39,4 +36,5 @@ STUDY:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheonSeokHee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csh3064)](https://solved.ac/csh3064)
