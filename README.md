@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-![header](https://capsule-render.vercel.app/api?type=soft)
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20SeokHee Github&fontSize=60" />
 
 
 [![Solved.ac
@@ -38,4 +37,6 @@ STUDY:
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-lightgrey"/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheonSeokHee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
