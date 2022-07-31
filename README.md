@@ -31,8 +31,7 @@ TOOLS:
 
 STUDY:
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-lightgrey"/>
-
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jpa-lightgrey"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Docker&logoColor=white"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheonSeokHee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
