@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20My%20Github&fontSize=90&stroke=00FF00" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20&desc=SeokHee%20Github&fontSize=90&stroke=00FF00" />
 
 
  # :rocket: Once I've Used 
